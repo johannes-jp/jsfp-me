@@ -1,0 +1,590 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "I'm a data-driven developer with domain experience in aerospace, robotics, and finance. Seeking a role that values strategic thinking, and can make use of my research and analytical skills to drive business success.",
+    "work_experience": [
+        {
+            "id": 1,
+            "title": "Trader, Fintech Developer",
+            "location": "Helsinki, Finland",
+            "company": "Self Employed",
+            "dates": "2020 - Present",
+            "tasks": [
+                "Building tools for trade automation in Python, portfolio analysis with R (rpy2) and Pandas, dashboards with Seaborn & Power BI",
+                "Trading in equity markets with a 64.6% win rate and 1.89 Sharpe ratio, +10K datapoints",
+                "Have written hundreds of scanners, recursive indicators, and search algorithms in thinkScript, TD Ameritrade\u2019s Java-based embedded programming language"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Technology & Business Development Lead",
+            "location": "Hunstville, AL, USA",
+            "company": "Dynetics, Inc.",
+            "dates": "2017 - 2019",
+            "tasks": [
+                "Automated infrastructure inspection with uncrewed aircraft (UAS), and performed supply chain & engineering analysis of UAS systems",
+                "Established ML/AI services and R&D partnerships with utility companies in R&D partnerships with utilities and ML/AI services for security systems",
+                "Gained 200% budget approval demonstrating R&D results to internal stakeholders"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Director of Operations",
+            "company": "UAVlink, LLC",
+            "location": "Hunstville, AL, USA",
+            "dates": "2016 - 2017",
+            "tasks": [
+                "Developed spectral analysis and photogrammetry tools for agriculture and construction",
+                "Provided aerial data and analytics reports to customers for monitoring crop health",
+                "Continued developing commercial services under Dynetics, Inc."
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Materials Research Engineer",
+            "location": "Broomfield, CO, USA",
+            "company": "Escape Dynamics, Inc.",
+            "dates": "2013 - 2015",
+            "tasks": [
+                "Instrumented networked data acquisition (DAQ) systems, collected & analyzed test data",
+                "Lead R&D and fabrication of ceramic composite (CMC) engine components",
+                "Designed, simulated, built, and tested thermal treatment systems for CMCs"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "institution": "Embry-Riddle Aeronautical University",
+            "degree": "M.Sc. Aerospace Engineering",
+            "location": "Daytona Beach, FL, USA",
+            "graduated": "2016",
+            "notes": "Thesis: Performance Characterization of Ceramic Composites"
+        },
+        {
+            "id": 2,
+            "institution": "Washington State University",
+            "degree": "B.Sc. Mechanical Engineering",
+            "location": "Pullman, WA, USA",
+            "graduated": "2011",
+            "notes": "Affiliations: WSU Sports Science Lab, Order of the Engineer"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Data Engineering",
+            "dates": "Jun 2022 - Oct 2022",
+            "tasks": [
+                "GCP and local PostgreSQL database for NY Taxi dataset with Airflow & DBT",
+                "Ingesting IEXcloud financial API data into local SQLite with Python",
+                "Learning data engineering and data pipeline automation best practices"
+            ]
+        },
+        {
+            "title": "Language Learning Database",
+            "dates": "Feb 2022 - May 2022",
+            "tasks": [
+                "Built Python modules for early language learning: Word frequency list generator from web crawler",
+                "NLP & database for word etiology (root words, verb types, etc.) - Finnish & some Icelandic",
+                "Ranking system for sorting vocabulary and full sentences by learning value"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 13
+                },
+                {
+                    "data engineering": 83
+                },
+                {
+                    "management": 45
+                }
+            ]
+        },
+        {
+            "name": "Pandas",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 7
+                },
+                {
+                    "data engineering": 17
+                },
+                {
+                    "management": 71
+                }
+            ]
+        },
+        {
+            "name": "Statistics",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 25
+                },
+                {
+                    "data engineering": 9
+                },
+                {
+                    "management": 39
+                }
+            ]
+        },
+        {
+            "name": "Power BI",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 38
+                },
+                {
+                    "data engineering": 94
+                },
+                {
+                    "management": 94
+                }
+            ]
+        },
+        {
+            "name": "Tableau",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 95
+                },
+                {
+                    "data engineering": 16
+                },
+                {
+                    "management": 4
+                }
+            ]
+        },
+        {
+            "name": "Atlassian",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 65
+                },
+                {
+                    "data engineering": 8
+                },
+                {
+                    "management": 77
+                }
+            ]
+        },
+        {
+            "name": "Analytics",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 12
+                },
+                {
+                    "data engineering": 88
+                },
+                {
+                    "management": 69
+                }
+            ]
+        },
+        {
+            "name": "SQL",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 54
+                },
+                {
+                    "data engineering": 27
+                },
+                {
+                    "management": 15
+                }
+            ]
+        },
+        {
+            "name": "Automation",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 82
+                },
+                {
+                    "data engineering": 42
+                },
+                {
+                    "management": 39
+                }
+            ]
+        },
+        {
+            "name": "Data Modeling",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 72
+                },
+                {
+                    "data engineering": 74
+                },
+                {
+                    "management": 45
+                }
+            ]
+        },
+        {
+            "name": "Requirements",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 76
+                },
+                {
+                    "data engineering": 44
+                },
+                {
+                    "management": 42
+                }
+            ]
+        },
+        {
+            "name": "Business Intelligence",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 50
+                },
+                {
+                    "data engineering": 67
+                },
+                {
+                    "management": 32
+                }
+            ]
+        },
+        {
+            "name": "ML/AI",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 14
+                },
+                {
+                    "data engineering": 76
+                },
+                {
+                    "management": 31
+                }
+            ]
+        },
+        {
+            "name": "Data Analysis",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 38
+                },
+                {
+                    "data engineering": 98
+                },
+                {
+                    "management": 91
+                }
+            ]
+        },
+        {
+            "name": "R (language)",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 95
+                },
+                {
+                    "data engineering": 90
+                },
+                {
+                    "management": 97
+                }
+            ]
+        },
+        {
+            "name": "Financial Analysis",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 72
+                },
+                {
+                    "data engineering": 40
+                },
+                {
+                    "management": 1
+                }
+            ]
+        },
+        {
+            "name": "GCP",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 22
+                },
+                {
+                    "data engineering": 48
+                },
+                {
+                    "management": 98
+                }
+            ]
+        },
+        {
+            "name": "AWS",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 11
+                },
+                {
+                    "data engineering": 31
+                },
+                {
+                    "management": 16
+                }
+            ]
+        },
+        {
+            "name": "UAV / UAS",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 56
+                },
+                {
+                    "data engineering": 47
+                },
+                {
+                    "management": 54
+                }
+            ]
+        },
+        {
+            "name": "Data Engineering",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 92
+                },
+                {
+                    "data engineering": 52
+                },
+                {
+                    "management": 61
+                }
+            ]
+        },
+        {
+            "name": "Javascript",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 51
+                },
+                {
+                    "data engineering": 96
+                },
+                {
+                    "management": 34
+                }
+            ]
+        },
+        {
+            "name": "Research & Development",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 11
+                },
+                {
+                    "data engineering": 80
+                },
+                {
+                    "management": 57
+                }
+            ]
+        },
+        {
+            "name": "CSS",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 56
+                },
+                {
+                    "data engineering": 48
+                },
+                {
+                    "management": 57
+                }
+            ]
+        },
+        {
+            "name": "Root Cause Analysis",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 47
+                },
+                {
+                    "data engineering": 55
+                },
+                {
+                    "management": 99
+                }
+            ]
+        },
+        {
+            "name": "CSS",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 90
+                },
+                {
+                    "data engineering": 83
+                },
+                {
+                    "management": 11
+                }
+            ]
+        },
+        {
+            "name": "Root Cause Analysis",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 42
+                },
+                {
+                    "data engineering": 69
+                },
+                {
+                    "management": 72
+                }
+            ]
+        },
+        {
+            "name": "HTML",
+            "tags": [
+                "Programming Languages"
+            ],
+            "priority": [
+                {
+                    "data analysis": 12
+                },
+                {
+                    "data engineering": 83
+                },
+                {
+                    "management": 86
+                }
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Tabletop Games"
+        },
+        {
+            "name": "Snowboarding"
+        },
+        {
+            "name": "Climbing"
+        },
+        {
+            "name": "Bad 80s Movies"
+        },
+        {
+            "name": "Dogs"
+        },
+        {
+            "name": "Weight Training"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Data Analysis - Python"
+        },
+        {
+            "name": "Data Analytics"
+        },
+        {
+            "name": "Finance Data Analyst"
+        },
+        {
+            "name": "Remote Pilot (FAA)"
+        }
+    ]
+}

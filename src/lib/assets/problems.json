@@ -1,0 +1,30 @@
+{
+    "name": "HTML",
+    "category": "Programming Languages",
+    "priority": [
+        {
+            "data analysis": 80
+        },
+        {
+            "data engineering": 90
+        },
+        {
+            "management": 20
+        }
+    ]
+},
+{
+    "name": "Business Intelligence",
+    "category": "Programming Languages",
+    "priority": [
+        {
+            "data analysis": 80
+        },
+        {
+            "data engineering": 90
+        },
+        {
+            "management": 20
+        }
+    ]
+}
